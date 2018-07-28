@@ -1,0 +1,23 @@
+{
+  "name": "reactkhoapham",
+  "version": "1.0.0",
+  "description": "Tìm hiểu react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeenSeens/ReactKhoaPham.git"
+  },
+  "author": "TuanIT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeenSeens/ReactKhoaPham/issues"
+  },
+  "homepage": "https://github.com/SeenSeens/ReactKhoaPham#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
